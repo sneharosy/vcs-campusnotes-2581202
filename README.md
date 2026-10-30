@@ -1,2 +1,1 @@
-# Campus Notes Project
-# Sync Test
+# CampusNotes Repository
